@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/quarkus-getting-started-BertaVR.iml" filepath="$PROJECT_DIR$/.idea/quarkus-getting-started-BertaVR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getting-started/getting-started.iml" filepath="$PROJECT_DIR$/getting-started/getting-started.iml" />
     </modules>
   </component>
 </project>
